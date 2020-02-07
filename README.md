@@ -5,6 +5,8 @@
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Openwide-Ingenierie_ci_analysis_tools_testing&metric=alert_status)](https://sonarcloud.io/dashboard?id=Openwide-Ingenierie_ci_analysis_tools_testing)
 
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/Openwide-Ingenierie/ci_analysis_tools_testing.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Openwide-Ingenierie/ci_analysis_tools_testing/alerts/)
+
 # ci_analysis_tools_testing
 A project to test code analysis tools
 
